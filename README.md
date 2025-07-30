@@ -6,7 +6,9 @@
 
 “Write a LinkedIn summary that blends my past wins with what I’m looking for — like a personal pitch that doesn’t sound robotic.”
 
+***📌Improve every bullet on my resume***
 
+“Rewrite these job bullets to show results, not tasks — add metrics, leadership, and ownership.”
 
 
 
